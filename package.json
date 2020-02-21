@@ -57,5 +57,9 @@
   },
   "files": [
     "dist"
-  ]
+  ],
+  "dependencies": {
+    "unifyre-native-assets": "git+https://github.com/ferrumnet/unifyre-native-assets.git",
+    "unifyre-react-helper": "git+https://github.com/ferrumnet/unifyre-react-helper.git"
+  }
 }
